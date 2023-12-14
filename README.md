@@ -1,6 +1,6 @@
 # Cog wrapper for HierSpeech++
 
-A Cog wrapper for HierSpeech++, a text-to-speech model that can generate speech from text and a target voice for zero-shot speech synthesis. See the original [repository](https://arxiv.org/abs/2311.12454), [paper](https://arxiv.org/abs/2311.12454) and [Replicate demo](https://replicate.com/adirik/hierspeechpp) for details.
+A Cog wrapper for HierSpeech++, a text-to-speech model that can generate speech from text and a target voice for zero-shot speech synthesis. See the original [repository](https://github.com/sh-lee-prml/HierSpeechpp), [paper](https://arxiv.org/abs/2311.12454) and [Replicate demo](https://replicate.com/adirik/hierspeechpp) for details.
 
 ## API Usage
 You need to have Cog and Docker installed to run this model locally. Follow the [model pushing guide](https://replicate.com/docs/guides/push-a-model) to push your own fork of HierSpeech++ to [Replicate](https://replicate.com).
